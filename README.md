@@ -9,6 +9,6 @@ Although it is not so good and it is a little simple.
 
 Have fun.
 
-If you feel it's good, please give me a star. ***Thank you!***
+If you feel it's good, please give me a star. **Thank you!**
 
 <https://github.com/EnderCHX/Small_Blog>
