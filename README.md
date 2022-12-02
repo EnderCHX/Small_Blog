@@ -7,7 +7,7 @@ It is open source now.
 
 Although it is not so good and it is a little simple.
 
-The program is developed with **Linux** and may **not run under windows**.
+The program was developed by **Linux** and may **not run under Windows**.
 
 Open ***Small_Blog.xml*** with __drawio__.
 
