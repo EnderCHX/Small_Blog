@@ -7,6 +7,8 @@ It is open source now.
 
 Although it is not so good and it is a little simple.
 
+Open ***Small_Blog.xml*** with __drawio__.
+
 Have fun.
 
 If you feel it's good, please give me a star. **Thank you!**
